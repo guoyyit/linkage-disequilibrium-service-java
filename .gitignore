@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### Local LD service runtime data (persisted committed batches) ###
+/data/
