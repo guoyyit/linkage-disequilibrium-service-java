@@ -1,0 +1,7 @@
+## source=synthetic
+## note=example batch for the LD service
+#CHROM	POS	REF	ALT	s1	s2	s3	s4
+chr1	100	A	T	0/0	0/1	0|1	1/1
+chr1	200	G	C	.	0|0	1|1	NA
+chr1	300	C	A	0/0	0/0	1/1	1/1
+chr2	100	A	T	0|1	1/1	?	0/0
